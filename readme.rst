@@ -3,8 +3,8 @@ Kloter 3 Tipe F
 ###################
 
 Persiapan
-- Xampp
-- Visual Studio Code
+1. Xampp
+2. Visual Studio Code
 
 1. Download Source Code dari repo github (bentuk .zip)
 2. Ekstrak file .zip ke dalam direktori htdocs pada xampp. Contoh C:\xampp\htdocs\arkademy
