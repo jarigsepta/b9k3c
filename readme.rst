@@ -11,5 +11,9 @@ Persiapan
 3. Lalu buka di http://localhost/phpmyadmin/
 4. Klik basis data ketikan nama database db_sensus
 5. Lalu klik buat
-6. Setelah membuat database, klik import - choose file - cari db_sensus.sql - klik open - klik kirim
-6. Lalu buka http://localhost/arkademy/
+6. Setelah membuat database klik import
+7. choose file
+8. cari db_sensus.sql
+9. klik open
+10. klik kirim
+11. Lalu buka http://localhost/arkademy/
